@@ -29,7 +29,6 @@ export default class FeedItem extends React.Component {
       <div className="panel-body">
       {contents}
       <hr />
-      8
       <div className="row">
       <div className="col-md-12">
       <ul className="list-inline">
